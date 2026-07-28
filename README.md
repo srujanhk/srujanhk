@@ -1,13 +1,13 @@
-##I'm Srujan Hemmanahalli KrishneGowda
+I'm Srujan Hemmanahalli KrishneGowda
 
-### AI/ML Engineer | Machine Learning | Generative AI | MLOps
+AI/ML Engineer | Machine Learning | Generative AI | MLOps
 
 I am passionate about building intelligent systems using Machine Learning, Deep Learning, and Generative AI.  
 I enjoy developing scalable AI applications, working with large-scale data pipelines, and deploying ML solutions into production.
 
 ---
 
-## Technical Skills
+Technical Skills
 
 | Category | Key Technologies | Specialized Areas | Projects |
 |----------|------------------|-------------------|----------|
@@ -23,7 +23,7 @@ I enjoy developing scalable AI applications, working with large-scale data pipel
 
 ---
 
-## Areas of Interest
+Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -37,7 +37,7 @@ I enjoy developing scalable AI applications, working with large-scale data pipel
 
 ## Featured Projects
 
-### 🤖 Enterprise RAG Assistant
+###  Enterprise RAG Assistant
 - Built an AI-powered document retrieval system using LLMs and vector search.
 - Implemented semantic search and context-aware responses.
 
@@ -46,7 +46,7 @@ I enjoy developing scalable AI applications, working with large-scale data pipel
 
 ---
 
-### ⚙️ End-to-End MLOps Pipeline
+###  End-to-End MLOps Pipeline
 - Developed an automated machine learning pipeline for training, tracking, and deployment.
 - Implemented model versioning and deployment workflows.
 
